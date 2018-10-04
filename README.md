@@ -7,4 +7,16 @@
            |___/                                           
 ```
 
- Ptit repo des familles pour parler de l'orga du labo sécu taU
+## Description
+Organisation de la creation du laboratoire Ynov
+
+## Brainstorming & points a aborder
+* Choix/Proposition de Projet
+* Site LaboSec
+* Offres Pentests
+* CTF Team Ynov
+* Conferences en Interne 
+* Evenement externe 
+* Cours / Tutos
+* Materiel & LockPicking
+
