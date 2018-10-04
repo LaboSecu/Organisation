@@ -10,13 +10,26 @@
 ## Description
 Organisation de la creation du laboratoire Ynov
 
-## Brainstorming & points a aborder
-* Choix/Proposition de Projet
-* Site LaboSec
+## Brainstorming
+### Seance
+* Projets
+* Challenges
+* Cours
+
+### Repo Github 
+* Cours / Tutos / Methologies
+* Fiche membres Labo
+
+### Services
 * Offres Pentests
-* CTF Team Ynov
-* Conferences en Interne 
-* Evenement externe 
-* Cours / Tutos
+
+### Evenements
+* Conferences Pros (Partenariats)
+* CTF & Salons
+
+### Tools
+* Site LaboSec
 * Materiel & LockPicking
 
+### Misc 
+* CTF Team Ynov
