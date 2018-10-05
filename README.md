@@ -18,7 +18,7 @@ Organisation de la creation du laboratoire Ynov
 * **Léo Massonat** : 
 * **Timothé Van Deputte** : 
 * **Victor Gabou** : 
-* **Anthony Bemba ** :
+* **Anthony Bemba** :
 
 ## Brainstorming
 ### Seance
