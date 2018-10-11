@@ -10,15 +10,15 @@
 ## Description
 Organisation de la creation du laboratoire Ynov
 
-## Membres
+## Administrateurs
 
-* **Tom Barnier** : 
-* **Jules Rognoni** : 
-* **Aria Groult** : 
-* **Léo Massonat** : 
-* **Timothé Van Deputte** : 
-* **Victor Gabou** : 
-* **Anthony Bemba** :
+* **Tom Barnier**
+* **Jules Rognoni**
+* **Aria Groult**
+* **Léo Massonat**
+* **Timothé Van Deputte**
+* **Victor Gabou**
+* **Anthony Bemba**
 
 ## Brainstorming
 ### Seance
