@@ -9,6 +9,7 @@
 
 ## Description
 Organisation de la creation du laboratoire Ynov
+Seances : tous les jeudi de 18h30 a 20h.
 
 ## Todo
 * Affiche de propagande
