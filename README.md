@@ -10,15 +10,9 @@
 ## Description
 Organisation de la creation du laboratoire Ynov
 
-## Administrateurs
-
-* **Tom Barnier**
-* **Jules Rognoni**
-* **Aria Groult**
-* **Léo Massonat**
-* **Timothé Van Deputte**
-* **Victor Gabou**
-* **Anthony Bemba**
+## Todo
+* Affiche de propagande
+* Demande de budget
 
 ## Brainstorming
 ### Seance
@@ -43,3 +37,13 @@ Organisation de la creation du laboratoire Ynov
 
 ### Misc 
 * CTF Team Ynov
+
+## Administrateurs
+* **Tom Barnier**
+* **Jules Rognoni**
+* **Aria Groult**
+* **Léo Massonat**
+* **Timothé Van Deputte**
+* **Victor Gabou**
+* **Anthony Bemba**
+
