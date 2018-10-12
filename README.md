@@ -27,6 +27,8 @@ Seances : tous les jeudi de 18h30 a 20h.
 
 ### Services
 * Offres Pentests
+  * Interne (Ydays/WorkShop)
+  * Externe (Inshallah)
 
 ### Evenements
 * Conferences Pros (Partenariats)
