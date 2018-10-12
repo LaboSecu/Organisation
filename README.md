@@ -26,7 +26,7 @@ Seances : tous les jeudi de 18h30 a 20h.
 * Fiche membres Labo
 
 ### Services
-* Offres Pentests
+* Offres Pentests (interne/externe)
 
 ### Evenements
 * Conferences Pros (Partenariats)
