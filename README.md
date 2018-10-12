@@ -26,13 +26,10 @@ Seances : tous les jeudi de 18h30 a 20h.
 * Fiche membres Labo
 
 ### Services
-* Offres Pentests (interne/externe)
-=======
 * Offres Pentests
   * Interne (Ydays/WorkShop)
   * Externe (Inshallah)
->>>>>>> d86354b03b3a128c81e73e59ae97d56d8253f49e
-
+  
 ### Evenements
 * Conferences Pros (Partenariats)
 * CTF & Salons
