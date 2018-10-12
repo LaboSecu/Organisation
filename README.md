@@ -14,6 +14,9 @@ Seances : tous les jeudi de 18h30 a 20h.
 ## Todo
 * Affiche de propagande
 * Demande de budget
+```
+Le budget sera à remonter à Clément Rambaud. N’oublie pas que nous avons déjà du matériel dans le labo IOT / Infra en 516.
+```
 
 ## Brainstorming
 ### Seance
