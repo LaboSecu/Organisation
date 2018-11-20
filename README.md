@@ -14,6 +14,7 @@ Seances : tous les jeudi de 18h30 a 19h30.
 ## Todo
 * Demande de budget
 * Check Materiel Laboratoire Infra
+* Template pour la creation de cours et de tutoriels
 
 ## Brainstorming
 ### Seance
