@@ -9,14 +9,11 @@
 
 ## Description
 Organisation de la creation du laboratoire Ynov
-Seances : tous les jeudi de 18h30 a 20h.
+Seances : tous les jeudi de 18h30 a 19h30.
 
 ## Todo
-* Affiche de propagande
 * Demande de budget
-```
-Le budget sera à remonter à Clément Rambaud. N’oublie pas que nous avons déjà du matériel dans le labo IOT / Infra en 516.
-```
+* Check Materiel Laboratoire Infra
 
 ## Brainstorming
 ### Seance
