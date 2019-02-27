@@ -41,13 +41,3 @@ Seances : tous les jeudi de 18h30 a 19h30.
 
 ### Misc 
 * CTF Team Ynov
-
-## Administrateurs
-* **Tom Barnier**
-* **Jules Rognoni**
-* **Aria Groult**
-* **Léo Massonat**
-* **Timothé Van Deputte**
-* **Victor Gabou**
-* **Anthony Bemba**
-
